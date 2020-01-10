@@ -15,7 +15,7 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
 
-task('Onegin'){
+task('Onegin privet'){
     doLast {
         println('onegin!')
     }
